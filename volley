@@ -1,6 +1,7 @@
 {
-    "check": "online",
-    "version": "5",
-    "updateLink": "https://play.google.com/store/apps/details?id=com.sibievo.volley",
-    "message": "Application gestion incidents. \n Disponible dans quelques minutes"
+   "check":"online",
+   "version":"5",
+   "updateLinkandroid":"https://play.google.com/store/apps/details?id=com.sibievo.volley",
+   "updateLinkios":"https://apple.comstore/apps/details?id=com.sibievo.volley",
+   "message":"Merci de mettre à jour l'application"
 }
